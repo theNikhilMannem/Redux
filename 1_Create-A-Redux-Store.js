@@ -1,6 +1,10 @@
 /*
 
-Create A Redux Store: Using the Redux object's createStore() method. 
+Create A Redux Store: Using the Redux object's createStore() method.
+
+The Redux store is an object which holds and manages application state.
+There is a method called createStore() on the Redux object, which you use to create the Redux store.
+This method takes a reducer function as a required argument:  it simply takes state as an argument and returns state.
 
 */
 
